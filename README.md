@@ -27,7 +27,7 @@ The package will be downloaded and added to your project.
 
 By default the SDK can be used without a license, but only allows two sensors two connect. To remove this limitation, a license is required.
 
-To request a license, please contact [sales@proavatar.io](mailto:sales@proavatar.io?subject=Motion%20Capture%20SDK%20license%20request).
+>To request a license, please contact [sales@proavatar.io](mailto:sales@proavatar.io?subject=Motion%20Capture%20SDK%20license%20request).
 
 All required functionality is implemented in the `MotionCapture` class. Since there can only be one instance of this class, the singleton design pattern is used and the methods of the class can be accessed using the `MotionCapture.shared` property.
 
