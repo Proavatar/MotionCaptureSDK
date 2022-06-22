@@ -27,7 +27,8 @@ The package will be downloaded and added to your project.
 
 All required functionality is implemented in the `MotionCapture` class. Since there can only be one instance of this class, the singleton design pattern is used and the methods of the class can be accessed using the `MotionCapture.shared` property.
 
-To use this class, place the following import in your file:
+To use this class, place the following import in your Swift files:
+
 ```
 import MotionCaptureSDK
 ```
