@@ -15,11 +15,10 @@ public class Pose {
   public init()
   @objc deinit
 }
-public struct License {
-  public var userName: Swift.String
-  public var licenseKey: Swift.String
+public class License {
+  public init(userName: Swift.String, licenseKey: Swift.String)
+  @objc deinit
 }
-public var hasValidLicense: Swift.Bool
 @_hasMissingDesignatedInitializers public class FunctionalComponent {
   @objc deinit
 }
