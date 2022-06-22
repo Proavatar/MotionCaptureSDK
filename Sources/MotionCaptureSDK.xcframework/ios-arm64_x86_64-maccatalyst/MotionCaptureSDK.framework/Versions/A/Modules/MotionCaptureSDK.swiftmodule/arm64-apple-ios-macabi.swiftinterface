@@ -4,6 +4,7 @@
 import CoreBluetooth
 import Foundation
 @_exported import MotionCaptureSDK
+import Security
 import Swift
 import UIKit
 import _Concurrency
@@ -14,6 +15,9 @@ public class Pose {
   public init()
   @objc deinit
 }
+public struct License {
+}
+public var hasValidLicense: Swift.Bool
 @_hasMissingDesignatedInitializers public class FunctionalComponent {
   @objc deinit
 }
@@ -59,7 +63,7 @@ public protocol MotionCaptureDelegate : AnyObject {
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class MotionCapture : MotionCaptureSDK.FunctionalComponent {
   public static let shared: MotionCaptureSDK.MotionCapture
-  public func setDelegate(_ delegate: MotionCaptureSDK.MotionCaptureDelegate)
+  public func configure(delegate: MotionCaptureSDK.MotionCaptureDelegate, license: MotionCaptureSDK.License? = nil)
   public func setSegments(_ segmentNames: [MotionCaptureSDK.SegmentName])
   public func assignSegment(sensor: MotionCaptureSDK.Sensor, segmentName: MotionCaptureSDK.SegmentName)
   public func unassignSegment(segmentName: MotionCaptureSDK.SegmentName)

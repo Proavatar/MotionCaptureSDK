@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/MotionCaptureSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Uv77F69Qveiqz2TZDFVxteOnt9c=
+		JDI15KBZW/4z9j1e+fZVm6Rooro=
 		</data>
 		<key>Modules/MotionCaptureSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1HJBwPsJtHQMGygG5+VbkabARCs=
+		rGUln/MHJ00W9ax/uy7wZRCSj58=
 		</data>
 		<key>Modules/MotionCaptureSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/MotionCaptureSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		vIexBvRvv+MzO0eD/bJ1QT6C5s0=
+		WLbDSljkRZkBlfD36gqYAOZ+NRk=
 		</data>
 		<key>Modules/MotionCaptureSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YtBSlTWk+e7NZd3PG+ZUWfLkM8U=
+		41BwR0rpl/zimFTZfzdTmyjV5Sw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mmsjLVZNUIfeshVzZyz+orock6bPnvEJZgQ/nJec1LE=
+			LBy6z0guB1n0rKj8Di/fexqRb6UT6ukKwO1m+i/R5Vk=
 			</data>
 		</dict>
 		<key>Modules/MotionCaptureSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HMtSE4CLGbAhU3rhUA7AC2NzkVTqABt1g3ghfN7obzg=
+			CEiwrYjWWeos25Q/W3IedEN9icG1888ILxBXa2Tu5dY=
 			</data>
 		</dict>
 		<key>Modules/MotionCaptureSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -93,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QjOdso7Lte0W98/ADH5glDHXAMdyXVp+wZpaWHcArCM=
+			TvMP1ccQGUO5DE83WB48XMX1SaJyjIiuSBiQcllZFQs=
 			</data>
 		</dict>
 		<key>Modules/MotionCaptureSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IDim3oYH8lhKypziUMdyClJ4WnXN9KkJPyqVLZE4sl8=
+			aXthpgaPOZI5mvlj6AmYURbG33SoQp9YvaxwBC6t9iI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
