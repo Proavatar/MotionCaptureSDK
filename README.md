@@ -33,7 +33,7 @@ All required functionality is implemented in the `MotionCapture` class. Since th
 
 To use this class, place the following import in your Swift files:
 
-```
+```Swift
 import MotionCaptureSDK
 ```
 
