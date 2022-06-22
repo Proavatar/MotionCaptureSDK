@@ -16,6 +16,8 @@ public class Pose {
   @objc deinit
 }
 public struct License {
+  public var userName: Swift.String
+  public var licenseKey: Swift.String
 }
 public var hasValidLicense: Swift.Bool
 @_hasMissingDesignatedInitializers public class FunctionalComponent {
