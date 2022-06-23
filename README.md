@@ -1,6 +1,6 @@
 # Motion Capture SDK
 
-This is the software development kit (SDK) to enable a Swift application to perform motion capture using [Xsens DOTs](https://www.xsens.com/xsens-dot), which are Bluetooth enabled motion tracking sensors.
+This is the software development kit (SDK) enabling iOS applications to perform motion capture using [Xsens DOTs](https://www.xsens.com/xsens-dot), which are Bluetooth enabled motion tracking sensors.
 
 The SDK is offered as a Swift Package containing the binary framework that implements the following functionality:
 * Handling the connection and disconnection of sensors.
