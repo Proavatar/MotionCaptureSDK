@@ -4,7 +4,7 @@ This is the software development kit (SDK) enabling iOS applications to perform 
 
 The SDK is offered as a Swift Package containing the binary framework that implements the following functionality:
 * Handling the connection and disconnection of sensors.
-* Setting the update rate.
+* Setting the update rate and monitoring the connection.
 * Resetting the heading of the sensors.
 * Assigning segments to sensors.
 * Synchronized orientation updates.
