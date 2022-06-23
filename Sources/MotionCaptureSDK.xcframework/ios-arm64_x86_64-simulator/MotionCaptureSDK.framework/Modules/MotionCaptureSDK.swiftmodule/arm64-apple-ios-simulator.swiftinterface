@@ -59,6 +59,7 @@ public protocol MotionCaptureDelegate : AnyObject {
   func sensorDisconnected(_ sensor: MotionCaptureSDK.Sensor)
   func sensorButtonPressed(_ sensor: MotionCaptureSDK.Sensor)
   func updatedBatteryLevel(_ sensor: MotionCaptureSDK.Sensor)
+  func connectionAlert(sensor: MotionCaptureSDK.Sensor, dataRate: Swift.Double)
   func updatedOrientations(timestamp: Foundation.TimeInterval, pose: MotionCaptureSDK.Pose)
   func recordingReady(csvString: Swift.String, duration: Foundation.TimeInterval)
 }

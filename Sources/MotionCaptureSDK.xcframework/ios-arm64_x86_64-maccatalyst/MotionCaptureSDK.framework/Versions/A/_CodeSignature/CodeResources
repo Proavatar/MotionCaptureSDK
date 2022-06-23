@@ -36,14 +36,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DcUk84kerwS1jiT/iA+i5YwObhwmzTqrah048dreOcE=
+			nWalEv8/PaRXcVqJ4k0yGguPOODWvWzJ7pIGFzVS4ec=
 			</data>
 		</dict>
 		<key>Modules/MotionCaptureSDK.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+eDFiyEiuEYbN+0NkcqevjsKaqSV+oM+000f/SrD0M0=
+			9qFjvsbuHQ9ZwdLa0g/8I60wV6jDJqnl8p2S6UVeYeM=
 			</data>
 		</dict>
 		<key>Modules/MotionCaptureSDK.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -57,14 +57,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nLdFym1rZtX5iOu4UqNlTxp6hFk4rrDsGR6fgtL7M3Q=
+			epa3GALZoptIHdGafIlSGXEFX3nRCpsefHYc/81Xt5Y=
 			</data>
 		</dict>
 		<key>Modules/MotionCaptureSDK.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vv6cvXz+n2Q7ixeQiclVPZgaWmzHlVfH5WYIGIWFvqU=
+			hJ87autEfoKJvaIbQiqFAC4ITBnWObvs9YiRU0GIHjo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
