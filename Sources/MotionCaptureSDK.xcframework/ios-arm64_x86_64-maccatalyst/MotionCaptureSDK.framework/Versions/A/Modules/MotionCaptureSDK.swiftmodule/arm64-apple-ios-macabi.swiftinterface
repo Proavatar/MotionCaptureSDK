@@ -71,7 +71,7 @@ public protocol MotionCaptureDelegate : AnyObject {
   public func assignSegment(sensor: MotionCaptureSDK.Sensor, segmentName: MotionCaptureSDK.SegmentName)
   public func unassignSegment(segmentName: MotionCaptureSDK.SegmentName)
   public func calibrate()
-  public func resetHeading()
+  public func resetHeading(resetAll: Swift.Bool = false)
   public func setUpdateRate(newUpdateRate: MotionCaptureSDK.UpdateRate)
   public func disconnectSensor(sensor: MotionCaptureSDK.Sensor, isBlocked: Swift.Bool = false)
   public func clearBlockedSensors()
