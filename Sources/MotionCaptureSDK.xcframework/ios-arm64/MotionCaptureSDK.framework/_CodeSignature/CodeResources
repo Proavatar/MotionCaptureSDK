@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/MotionCaptureSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		rWEqr1H49TzYS/RqIuzLN2k2wtQ=
+		lp5Pvb4ivq/N+JG+gMMu/5Eqk0I=
 		</data>
 		<key>Modules/MotionCaptureSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		9GdQKSGh0E7aHTyDQM79AXg714M=
+		ni1OMnDUbAkxGndVrgsxOOAWcrU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -60,14 +60,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pEpOz4LAAM6eG9IBAlD7NVaMlPUcx63rITZaMjfWB1A=
+			rNjioxHA7GW/bVOU5fm5uUA8iBLR+kgDJQooYBWG4Zs=
 			</data>
 		</dict>
 		<key>Modules/MotionCaptureSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7OBfbD6S+q/wuA177jSl10L7yvTL6/aBlNh/MxB21F0=
+			tWAbHIlDp2q14Ed/NT9J255B4ScgIgqJU/OG3EKvFFs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

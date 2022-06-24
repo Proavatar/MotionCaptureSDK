@@ -25,6 +25,7 @@ public class License {
 @objc @_hasMissingDesignatedInitializers public class Sensor : ObjectiveC.NSObject, CoreBluetooth.CBPeripheralDelegate {
   public var segmentName: Swift.String?
   public var batteryLevel: Swift.UInt8
+  public var idString: Swift.String
   @objc public func peripheral(_ peripheral: CoreBluetooth.CBPeripheral, didDiscoverServices error: Swift.Error?)
   @objc public func peripheral(_ peripheral: CoreBluetooth.CBPeripheral, didDiscoverCharacteristicsFor service: CoreBluetooth.CBService, error: Swift.Error?)
   @objc public func peripheral(_ peripheral: CoreBluetooth.CBPeripheral, didWriteValueFor characteristic: CoreBluetooth.CBCharacteristic, error: Swift.Error?)
