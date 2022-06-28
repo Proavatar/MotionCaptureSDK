@@ -1,0 +1,11 @@
+framework module WatchMotionCaptureSDK {
+  umbrella header "WatchMotionCaptureSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module WatchMotionCaptureSDK.Swift {
+    header "WatchMotionCaptureSDK-Swift.h"
+    requires objc
+}
