@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/MotionCaptureSDK.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		ZYJscgzjkJ+Z4b6Dh5jE4dMl0K0=
+		7ACIO6aZzaC+iaO8VVVLpyCxPmk=
 		</data>
 		<key>Modules/MotionCaptureSDK.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/MotionCaptureSDK.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		sGjlmsNOafOacg6NxgkoVa3C8Gw=
+		wXN5iAI8br1919R/rln95dza6T4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -79,7 +79,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y8xoJkP53NRRhmJjCch/12AuahY4Z7ygXrMNZ7EEpWY=
+			lOdih5W9W0lpcn5/nTHfJKPWzF2mDzPHDA0WoMfXpf4=
 			</data>
 		</dict>
 		<key>Modules/MotionCaptureSDK.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O8sKgEjWuR3B7b+DfB/6fK9sFOCELy8h2ZYVub+hPhY=
+			6xIOy6kxocKEWmu84Xz5WT6p3uaUGkDWDFTqtIbg+tA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

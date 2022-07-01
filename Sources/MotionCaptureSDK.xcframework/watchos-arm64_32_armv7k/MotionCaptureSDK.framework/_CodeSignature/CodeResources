@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/MotionCaptureSDK.swiftmodule/arm64_32-apple-watchos.swiftmodule</key>
 		<data>
-		0aQrYmmx9oCeaqPGH7OLco43eFU=
+		S8PPA5mnHfv1ffIP6sK4/jL2B7E=
 		</data>
 		<key>Modules/MotionCaptureSDK.swiftmodule/armv7k-apple-watchos.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/MotionCaptureSDK.swiftmodule/armv7k-apple-watchos.swiftmodule</key>
 		<data>
-		S0Ral/m5IzKBbBnTs47EGNfK60Y=
+		w3viG0t2fXdX3J4eNZacyQjMCKw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,11 +95,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0aQrYmmx9oCeaqPGH7OLco43eFU=
+			S8PPA5mnHfv1ffIP6sK4/jL2B7E=
 			</data>
 			<key>hash2</key>
 			<data>
-			VwTKkm9nU3w7U4G2zHkQ6TQZ3//lyCYEXMalUuIxGVU=
+			JLZTfkszZPJi4Gugk+SAascu6hu1YkxwVXePAwTI0Q8=
 			</data>
 		</dict>
 		<key>Modules/MotionCaptureSDK.swiftmodule/armv7k-apple-watchos.swiftdoc</key>
@@ -128,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			S0Ral/m5IzKBbBnTs47EGNfK60Y=
+			w3viG0t2fXdX3J4eNZacyQjMCKw=
 			</data>
 			<key>hash2</key>
 			<data>
-			GOtcIPesy1juew7WPiZT9QpbrXKoDUMOOTMIFpGb12s=
+			+9k0uuOz6T2Ek3PPy0OMnLZpJHw80Q6DHORD8D9bQxc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
