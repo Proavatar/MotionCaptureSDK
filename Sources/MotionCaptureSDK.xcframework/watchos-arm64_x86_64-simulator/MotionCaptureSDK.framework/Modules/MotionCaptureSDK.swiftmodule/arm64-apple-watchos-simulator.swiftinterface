@@ -3,6 +3,7 @@
 // swift-module-flags: -target arm64-apple-watchos8.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MotionCaptureSDK
 import CoreBluetooth
 import Foundation
+import Licensing
 @_exported import MotionCaptureSDK
 import Security
 import Swift
@@ -13,10 +14,6 @@ public class Pose {
   public var segments: [(name: Swift.String, orientation: simd.simd_quatd)]
   public var joints: [(name: Swift.String, orientation: simd.simd_quatd, position: simd.simd_double3)]
   public init()
-  @objc deinit
-}
-public class License {
-  public init(userName: Swift.String, licenseKey: Swift.String)
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class FunctionalComponent {
@@ -66,7 +63,8 @@ public protocol MotionCaptureDelegate : AnyObject {
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class MotionCapture : MotionCaptureSDK.FunctionalComponent {
   public static let shared: MotionCaptureSDK.MotionCapture
-  public func configure(delegate: MotionCaptureSDK.MotionCaptureDelegate, license: MotionCaptureSDK.License? = nil)
+  public func activateLicense(licenseKey: Swift.String, bundleId: Swift.String)
+  public func configure(delegate: MotionCaptureSDK.MotionCaptureDelegate)
   public func setSegments(_ segmentNames: [MotionCaptureSDK.SegmentName])
   public func assignSegment(sensor: MotionCaptureSDK.Sensor, segmentName: MotionCaptureSDK.SegmentName)
   public func unassignSegment(segmentName: MotionCaptureSDK.SegmentName)
