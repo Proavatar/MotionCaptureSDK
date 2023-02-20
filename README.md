@@ -38,3 +38,14 @@ import MotionCaptureSDK
 ```
 
 For a complete SDK reference, download the document "[Motion Capture SDK specification](https://docs.google.com/document/d/10cavga-9EazuCiSZettPT0Egue0vIeErZkD-4jK9fjE/preview)".
+
+# Kinematic mode
+*The motion capture is performed based on a simplified model comprising the larger segments of a human body to which a sensor can be attached.*
+
+## Segments
+In the motion capture as implemented in this package, a simplified kinematic model of a human body is used as illustrated in the figure below. In the figure the names of the segments are given with the motion tracking sensors attached. Note that it is not always necessary to attach sensors to all segments. Depending on what needs to be measured, oftentimes it is sufficient to attach sensors for example only to the lower- or upper-body. This reduces the number of sensors and is less cumbersome for the user.
+
+![Kinematic model](https://docs.google.com/drawings/d/e/2PACX-1vSDT2dcDMyxp9HTz5A_KxZuDo-Ey5ILtMPyORGzIXsfRpzIkVebA863oOVfLgykKGh4lcDd6HgKWD0G/pub?w=190&h=277)
+
+
+
