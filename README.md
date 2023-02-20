@@ -37,4 +37,4 @@ To use this class, place the following import in your Swift files:
 import MotionCaptureSDK
 ```
 
-For a complete SDK reference, download the document "[Motion Capture SDK specification](https://docs.google.com/document/d/10cavga-9EazuCiSZettPT0Egue0vIeErZkD-4jK9fjE/export?format=pdf)".
+For a complete SDK reference, download the document "[Motion Capture SDK specification](https://docs.google.com/document/d/10cavga-9EazuCiSZettPT0Egue0vIeErZkD-4jK9fjE/preview)".
